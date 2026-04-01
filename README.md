@@ -2,7 +2,7 @@
 ## AIM:
 To generate design of Band Stop FIR digital filter using Window.
 ## Software Required:
-MAT LAB R2012.
+MAT LAB R2024.
 ## Algorithm:
 Step 1: Open MATLAB and Write the program.
 
